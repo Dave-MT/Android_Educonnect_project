@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design Theme Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App-specific colors -->
+    <color name="colorPrimary">@color/purple_500</color>
+    <color name="colorPrimaryDark">@color/purple_700</color>
+    <color name="colorAccent">@color/teal_200</color>
+    
+    <!-- Message colors -->
+    <color name="sent_message_bg">#007bff</color>
+    <color name="received_message_bg">#f1f1f1</color>
+    <color name="sent_message_time">#CCFFFFFF</color>
+    <color name="received_message_time">#666666</color>
+    
+    <!-- UI element colors -->
+    <color name="gray">#CCCCCC</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="button_primary">@color/purple_500</color>
+    <color name="button_primary_pressed">@color/purple_700</color>
+    <color name="button_secondary">@color/teal_200</color>
+    <color name="button_secondary_pressed">@color/teal_700</color>
+</resources>

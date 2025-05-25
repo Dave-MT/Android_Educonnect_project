@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_student_menu.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_student_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_message.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_class.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_teacher_assignments.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_teacher_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_message_mine.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_message_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_resources.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_resources.xml"
+    },
+    {
+        "merged": "com.educonnect.app-mergeDebugResources-32:/layout/item_resource_student.xml",
+        "source": "com.educonnect.app-main-35:/layout/item_resource_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_assignment_submission.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_assignment_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_teacher_assignment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_teacher_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_assignment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_create_resource.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_create_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_edit_resource.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_edit_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_teacher_discussions.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_teacher_discussions.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_teacher_menu.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_teacher_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\dialog_grade_submission.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\dialog_grade_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_resource.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_teacher_resources.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_teacher_resources.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_submit_assignment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_submit_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_grade.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_grade.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_student_assignments.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_student_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_teacher_grading.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_teacher_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_grade_submissions.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_grade_submissions.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_class_detail.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_class_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_check_grades.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_check_grades.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\item_submission.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\item_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_profile_with_drawer.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_profile_with_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_create_assignment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_create_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_profile_simple.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_profile_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_discussion.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_discussion.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_edit_assignment.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_edit_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-mergeDebugResources-32:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.12\\com.educonnect.app-main-35:\\layout\\activity_login.xml"
+    }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Backup rules for the application -->
+    <!-- By default, all files are included in backups -->
+    <!-- To exclude specific files, add them here -->
+    <!-- <exclude domain="file" path="example_file.txt"/> -->
+</full-backup-content>

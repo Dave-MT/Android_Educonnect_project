@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduConnect</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_student_menu">StudentMenuActivity</string>
+    <string name="title_activity_class_detail">ClassDetailActivity</string>
+    <string name="title_activity_discussion">DiscussionActivity</string>
+    <string name="title_activity_resources">ResourcesActivity</string>
+    <string name="title_activity_student_assignments">StudentAssignmentsActivity</string>
+    <string name="title_activity_check_grades">CheckGradesActivity</string>
+    <string name="title_activity_submit_assignment">SubmitAssignmentActivity</string>
+    <string name="title_activity_assignment_submission">AssignmentSubmissionActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_teacher_menu">TeacherMenuActivity</string>
+    <string name="title_activity_teacher_assignments">TeacherAssignmentsActivity</string>
+    <string name="title_activity_edit_assignment">EditAssignmentActivity</string>
+    <string name="title_activity_grade_submissions">GradeSubmissionsActivity</string>
+    
+    <!-- Common strings -->
+    <string name="error_loading_data">Error loading data. Please try again.</string>
+    <string name="no_data_available">No data available</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="view">View</string>
+    <string name="grade">Grade</string>
+    <string name="view_file">View File</string>
+    <string name="no_submissions_found">No submissions found</string>
+    <string name="error_loading_submissions">Error loading submissions</string>
+    <string name="enter_grade_hint">Enter grade (e.g., A, B+, 95)</string>
+    <string name="enter_feedback_hint">Enter feedback for the student</string>
+    <string name="feedback">Feedback</string>
+</resources>

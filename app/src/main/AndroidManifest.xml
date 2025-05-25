@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.educonnect">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EduConnect"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ClassDetailActivity" />
+        <activity android:name=".SubmitAssignmentActivity" />
+        <activity android:name=".AssignmentSubmissionActivity" />
+        <activity android:name=".StudentAssignmentsActivity" />
+        <activity android:name=".CheckGradesActivity" />
+        <activity android:name=".ResourcesActivity" />
+        <activity android:name=".DiscussionActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".StudentMenuActivity" />
+        <activity android:name=".TeacherMenuActivity" />
+        <activity android:name=".TeacherAssignmentsActivity" />
+        <activity android:name=".TeacherResourcesActivity" />
+        <activity android:name=".TeacherDiscussionsActivity" />
+        <activity android:name=".TeacherGradingActivity" />
+        <activity android:name=".CreateAssignmentActivity" />
+        <activity android:name=".CreateResourceActivity" />
+        <activity android:name=".EditResourceActivity" />
+        <activity android:name=".EditAssignmentActivity" />
+        <activity android:name=".GradeSubmissionsActivity" />
+
+    </application>
+
+</manifest>
