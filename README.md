@@ -1,4 +1,4 @@
-# EduConnect Android App
+#1 EduConnect Android App
 
 `<div align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </div>`## 📱 Overview
 
-EduConnect is a comprehensive educational management Android application that bridges the gap between teachers and students through seamless digital communication. The app provides a robust platform for assignment management, resource sharing, grade tracking, and class discussions, all within an intuitive mobile interface.
-
-### 🎯 Key Features
+#2 🎯 Key Features
 
 - **🔐 Secure Authentication** - JWT-based login with role-based access control
 - **📝 Assignment Management** - Create, submit, and track assignments with file attachments
@@ -21,14 +19,16 @@ EduConnect is a comprehensive educational management Android application that br
 - **📱 Role-Based UI** - Adaptive interface for teachers and students
 
 
-## 🚀 Getting Started
+#3 🚀 Getting Started
 
 ### Prerequisites
 
 - Android Studio Arctic Fox (2020.3.1) or later
-- Android SDK API 24 or higher
+- Android SDK API 26 or higher
 - Java Development Kit (JDK) 11
 - Active internet connection for API communication
+-  Gradel version--distributionUrl=https\://services.gradle.org/distributions/gradle-8.12-bin.zip
+  
 
 
 ### Installation
@@ -36,7 +36,7 @@ EduConnect is a comprehensive educational management Android application that br
 1. **Clone the repository**
 
 ```shellscript
-git clone https://github.com/yourusername/educonnect-android.git
+git clone https://github.com/Dave-MT/Android_Educonnect_project.git
 cd educonnect-android
 ```
 
@@ -54,14 +54,14 @@ cd educonnect-android
 ```java
 // In app/src/main/java/com/educonnect/utils/UrlConfig.java
 private static final String DEFAULT_BASE_URL = "https://your-api-domain.com/educonnect/api/";
-if you use linux use command= ngrok http 80 ,and  copy and paste  to private static final String DEFAULT_BASE_URL = "https://paste here /educonnect/api/"
+if you use linux use command= ngrok http 80 ,and  copy the Forwarding url  and paste  to private static final String DEFAULT_BASE_URL = "https://paste here /educonnect/api/"
 ```
 
 
 4. **Build and Run**
 
-1. Sync project with Gradle files
-2. Connect an Android device or start an emulator
+1. Build and Sync project with Gradle files
+2. Connect an Android device or start an emulator 
 3. Click "Run" or press `Ctrl+R`
 
 
@@ -72,14 +72,14 @@ if you use linux use command= ngrok http 80 ,and  copy and paste  to private sta
 
 **Teacher Account:**
 
-- Email: `teacher@educonnect.com`
-- Password: `teacher123`
+- Email: `dagi@gmail.com`
+- Password: `pass12345`
 
 
 **Student Account:**
 
-- Email: `student@educonnect.com`
-- Password: `student123`
+- Email: `yoni@gmail.com`
+- Password: `pass123`
 
 
 ## 🏗️ Architecture
@@ -169,10 +169,4 @@ Add network security configuration in `res/xml/network_security_config.xml`:
 </network-security-config>
 ```
 
-## 📱 Screenshots
 
-`<div align="center">
-  <img src="screenshots/login.png" width="200" alt="Login Screen">
-  <img src="screenshots/teacher_dashboard.png" width="200" alt="Teacher Dashboard">
-  <img src="screenshots/student_dashboard.png" width="200" alt="Student Dashboard">
-  <img src="screenshots/assignments.png" width=`
