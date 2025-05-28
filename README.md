@@ -1,13 +1,5 @@
 #1 EduConnect Android App
-
-`<div align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/Language-Java-orange.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Min%20SDK-24-blue.svg" alt="Min SDK">
-  <img src="https://img.shields.io/badge/Target%20SDK-34-blue.svg" alt="Target SDK">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-</div>`## 📱 Overview
-
+note: if you use your android phone device turn off Dark mode/theme.
 #2 🎯 Key Features
 
 - **🔐 Secure Authentication** - JWT-based login with role-based access control
